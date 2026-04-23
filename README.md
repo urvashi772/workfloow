@@ -26,30 +26,30 @@ PDF Parser – Resume extraction
 
 **⚙️ Workflow Architecture**
   Step-by-Step Flow:
-1.Trigger
+1.Trigger:
 Starts on form submission
 
-2.File Upload
+2.File Upload:
 Resume is uploaded to Google Drive
 
-3.Extract from File
+3.Extract from File:
 PDF content is extracted
 
-4.Parallel Processing
+4.Parallel Processing:
 Candidate Details Extraction
 Information Extraction
 
-5.Merge Node
+5.Merge Node:
 Combines extracted data
 
-6.Summarization Chain
+6.Summarization Chain:
 AI summarizes candidate profile
 
-7.HR Expert Evaluation
+7.HR Expert Evaluation:
 AI evaluates candidate suitability
 Generates structured output
 
-8.Final Actions
+8.Final Actions:
 Append data to Google Sheets
 Update document
 Send email notification
