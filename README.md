@@ -65,7 +65,7 @@ Final Recommendation
 **🔐 Setup Instructions**
 
 **1. Clone Repository**
-git clone https://github.com/your-username/ai-resume-screening.git
+git clone https://github.com/urvashi772/ai-resume-screening.git
 cd ai-resume-screening
 **2. Configure API Keys**
 Add your Google Gemini API Key
